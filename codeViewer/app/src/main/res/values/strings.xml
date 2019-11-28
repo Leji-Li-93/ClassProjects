@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">codeViewer</string>
+    <string name="values_write_storage">android.permission.WRITE_EXTERNAL_STORAGE</string>
+    <string name="values_read_storage">android.permission.READ_EXTERNAL_STORAGE</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="color_selector_preview_text">AAAAAAAAA</string>
+    <string name="default_number">0</string>
+    <string name="color_selector_title">Color Selector</string>
+    <string name="menu_item_setting">setting</string>
+    <string name="menu_item_new">open other</string>
+    <string name="title_setting_color">Color Setting</string>
+</resources>
